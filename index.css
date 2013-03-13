@@ -1,0 +1,97 @@
+body { 
+	background-image: url('images/furley.png');
+	background-repeat: repeat;
+}
+
+#nav_text {
+	margin-top: 147px;
+	font-family: Comfortaa;
+	color: #324184;
+	font-size: 1.3em;
+	font-weight: 900;
+	letter-spacing: 0.1em;
+}
+a {
+	color: #324184;
+}
+#logo {
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+#img-container {
+	padding: 25px;
+	-moz-box-shadow:    inset 0 0 3px #d6d6d6;
+   	-webkit-box-shadow: inset 0 0 3px #d6d6d6;
+   	box-shadow:         inset 0 0 3px #d6d6d6;
+}
+.services-img {
+	margin: 20px;
+}
+#copywrite {
+	text-align: center;
+	font-family: Comfortaa;
+	color: #324184;
+	margin-top: -15px;
+}
+#img-container > .body-text {
+	font-family: Helvetica,Arial,sans-serif;
+	color: #324184;
+	font-size: 1.3em;
+	letter-spacing: 0.1em;
+	margin-top: 10px;
+	padding: 10px 35px;
+}
+.services-container {
+	height: 440px;
+}
+.service-content {
+	margin: 40px 0px;
+}
+.hero-services  .service-title {
+	font-family: Helvetica,Arial,sans-serif;
+	color: #324184;
+	font-weight: 900;
+	margin-top: 20px;
+	margin-bottom: 0px;
+}
+.hero-services .service-copy {
+	font-family: Helvetica,Arial,sans-serif;
+	color: #324184;
+	margin-right: 30px;
+}
+#paper {
+	margin: 0px auto;
+	width: 600px;
+	position: relative;
+	z-index: 1; 
+}
+#contact-copy {
+	font-family: Comfortaa;
+	color: #324184;
+	position: relative;
+	z-index: 2;
+	top: -378px;
+}
+#contact-copy > h3, #contact-copy > h4 {
+	text-align: center;
+}
+#address {
+	font-family: Helvetica,Arial,sans-serif;	
+	font-size: 1.2em;
+	letter-spacing: 0.1em;
+	margin: 30px auto 10px auto;
+	width: 250px;
+}
+#email {
+	font-family: Helvetica,Arial,sans-serif;		
+	font-size: 1.2em;
+	letter-spacing: 0.1em;
+	text-align: center;
+}
+
+
+
+
+
+
+
