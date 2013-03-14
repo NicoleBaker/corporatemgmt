@@ -54,6 +54,9 @@ a {
 	margin-top: 20px;
 	margin-bottom: 0px;
 }
+.hero-services {
+	padding: 10px 0px 30px 0px;
+}
 .hero-services .service-copy {
 	font-family: Helvetica,Arial,sans-serif;
 	color: #324184;
